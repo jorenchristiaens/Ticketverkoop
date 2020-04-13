@@ -1,0 +1,10 @@
+C:\Users\peter\OneDrive\Documenten\school\VIVES\Ticketerkoop\Ticketverkoop.Domain\bin\Debug\netcoreapp3.1\Ticketverkoop.Domain.deps.json
+C:\Users\peter\OneDrive\Documenten\school\VIVES\Ticketerkoop\Ticketverkoop.Domain\bin\Debug\netcoreapp3.1\Ticketverkoop.Domain.dll
+C:\Users\peter\OneDrive\Documenten\school\VIVES\Ticketerkoop\Ticketverkoop.Domain\obj\Debug\netcoreapp3.1\Ticketverkoop.Domain.csprojAssemblyReference.cache
+C:\Users\peter\OneDrive\Documenten\school\VIVES\Ticketerkoop\Ticketverkoop.Domain\obj\Debug\netcoreapp3.1\Ticketverkoop.Domain.AssemblyInfoInputs.cache
+C:\Users\peter\OneDrive\Documenten\school\VIVES\Ticketerkoop\Ticketverkoop.Domain\obj\Debug\netcoreapp3.1\Ticketverkoop.Domain.AssemblyInfo.cs
+C:\Users\peter\OneDrive\Documenten\school\VIVES\Ticketerkoop\Ticketverkoop.Domain\bin\Debug\netcoreapp3.1\Ticketverkoop.Domain.runtimeconfig.json
+C:\Users\peter\OneDrive\Documenten\school\VIVES\Ticketerkoop\Ticketverkoop.Domain\bin\Debug\netcoreapp3.1\Ticketverkoop.Domain.runtimeconfig.dev.json
+C:\Users\peter\OneDrive\Documenten\school\VIVES\Ticketerkoop\Ticketverkoop.Domain\bin\Debug\netcoreapp3.1\Ticketverkoop.Domain.pdb
+C:\Users\peter\OneDrive\Documenten\school\VIVES\Ticketerkoop\Ticketverkoop.Domain\obj\Debug\netcoreapp3.1\Ticketverkoop.Domain.dll
+C:\Users\peter\OneDrive\Documenten\school\VIVES\Ticketerkoop\Ticketverkoop.Domain\obj\Debug\netcoreapp3.1\Ticketverkoop.Domain.pdb
