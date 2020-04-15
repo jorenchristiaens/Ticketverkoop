@@ -1,3 +1,4 @@
 ﻿//commando voor het updaten van de database:
+cp in package manager console
 
 update-database -context ApplicationDbContext
