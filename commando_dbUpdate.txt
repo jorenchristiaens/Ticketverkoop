@@ -1,1 +1,3 @@
-﻿update-database -context ApplicationDbContext
+﻿//commando voor het updaten van de database:
+
+update-database -context ApplicationDbContext
